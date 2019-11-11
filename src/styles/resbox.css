@@ -1,0 +1,9 @@
+.result {
+  border: 1px solid #eeeeee;
+  background-color: white;
+  border-radius: 5px;
+  color: #393e46;
+  height: 50px;
+  font-size: 28px;
+  margin-bottom: 20px;
+}

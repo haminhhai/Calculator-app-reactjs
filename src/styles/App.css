@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background: url(../assets/calculator.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+  position: absolute;
+}
+
+.cal-wrapper {
+  border: 2px solid #222831;
+  border-radius: 25px;
+  width: 430px;
+  background-color: #393e46;
+  color: #eeeeee;
+  margin-top: 5%;
+}
+

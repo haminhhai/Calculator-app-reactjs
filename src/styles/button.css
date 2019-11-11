@@ -1,0 +1,28 @@
+.button-box {
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+    color: #eeeeee;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: .3s;
+}
+
+#num {
+    background-color: #00adb5;
+}
+
+#num:hover {
+    background-color: #38dde6;
+}
+
+
+#oper {
+    background-color: #f6416c;
+}
+
+#oper:hover {
+    background-color: #ee7a95;
+}

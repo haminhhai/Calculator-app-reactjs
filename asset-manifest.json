@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Calculator-app-reactjs/static/css/main.69e1e884.chunk.css",
+    "main.js": "/Calculator-app-reactjs/static/js/main.07251893.chunk.js",
+    "main.js.map": "/Calculator-app-reactjs/static/js/main.07251893.chunk.js.map",
+    "runtime-main.js": "/Calculator-app-reactjs/static/js/runtime-main.9d0846d6.js",
+    "runtime-main.js.map": "/Calculator-app-reactjs/static/js/runtime-main.9d0846d6.js.map",
+    "static/js/2.e7814c3b.chunk.js": "/Calculator-app-reactjs/static/js/2.e7814c3b.chunk.js",
+    "static/js/2.e7814c3b.chunk.js.map": "/Calculator-app-reactjs/static/js/2.e7814c3b.chunk.js.map",
+    "index.html": "/Calculator-app-reactjs/index.html",
+    "precache-manifest.a023ffef07610ddfd1a5929b90114478.js": "/Calculator-app-reactjs/precache-manifest.a023ffef07610ddfd1a5929b90114478.js",
+    "service-worker.js": "/Calculator-app-reactjs/service-worker.js",
+    "static/css/main.69e1e884.chunk.css.map": "/Calculator-app-reactjs/static/css/main.69e1e884.chunk.css.map",
+    "static/media/App.css": "/Calculator-app-reactjs/static/media/calculator.1ed5f183.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0846d6.js",
+    "static/js/2.e7814c3b.chunk.js",
+    "static/css/main.69e1e884.chunk.css",
+    "static/js/main.07251893.chunk.js"
+  ]
+}
